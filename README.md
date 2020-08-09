@@ -9,12 +9,10 @@ To run the script you need to:
 * Contributing
 Bug reports, feature suggestions. Please contact us by Telegram:
 
-	t.me/koompi
+	Contact Us, [Please Click here](t.me/koompi)
 
 And Also contributers are below:
 
-	https://github.com/hangsiaongithub
-
-	https://github.com/IsaacJReay
-
-	https://github.com/reegsie
+	Hangsia [Please Click here](https://github.com/hangsiaongithub)
+	Pichponereay [Please Click here](https://github.com/IsaacJReay)
+	Regan [Please Click here](https://github.com/reegsie)
