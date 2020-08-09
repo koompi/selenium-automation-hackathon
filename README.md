@@ -13,6 +13,6 @@ Bug reports, feature suggestions. Please contact us by Telegram:
 
 And Also contributers are below:
 
-	Hangsia, [Please Click here](https://github.com/hangsiaongithub)
-	Pichponereay,[Please Click here](https://github.com/IsaacJReay)
-	Regan, [Please Click here](https://github.com/reegsie)
+	Hangsia, [Please Click here](github.com/hangsiaongithub)
+	Pichponereay,[Please Click here](github.com/IsaacJReay)
+	Regan, [Please Click here](github.com/reegsie)
