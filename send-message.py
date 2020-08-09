@@ -61,10 +61,16 @@ KOOMPI គឺជាគំនិតផ្តួចផ្តើមមួយដែ�
         send_button.click()
 # if __name__ == '__main__':
 # Enter your login cr.edentials here
+
+user_email = input("Enter your Facebook email: ")
+user_pass = input("Enter your Facebook password: ")
+
+
 n=0
 i=0
 array=[]
-fb_login = FacebookLogin(email='reganrayner30@gmail.com', password='Kitmax2002', browser='Chrome')
+# fb_login = FacebookLogin(email='reganrayner30@gmail.com', password='Kitmax2002', browser='Chrome')
+fb_login = FacebookLogin(email=user_email, password=user_pass, browser='Chrome')
 fb_login.login()
 
 user_id = open('test.txt', 'r')
@@ -75,5 +81,5 @@ for line in lines:
 while i<n:
     fb_login.go_url(array[i])
     i=i+1
-    time.sleep(random.randint(0,20))
+    time.sleep(random.randint(5,20))
     
