@@ -11,8 +11,8 @@ Bug reports, feature suggestions. Please contact us by Telegram and Check out ou
 
 	Contact Us, [Please Click here](t.me/koompi)
 
-	Hangsia, [Please Click here](github.com/hangsiaongithub)
+	Hangsia, [Please Click here](https://github.com/hangsiaongithub)
 
-	Pichponereay,[Please Click here](github.com/IsaacJReay)
+	Pichponereay,[Please Click here](https://github.com/IsaacJReay)
 
-	Regan, [Please Click here](github.com/reegsie)
+	Regan, [Please Click here](https://github.com/reegsie)
