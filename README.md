@@ -3,7 +3,9 @@ Welcome to our Hackathons mission
 
 To run the script you need to:
 
-	$ pip install selenium
+	$ source venv/bin/activate
+
+    $ python send-message.py
 
 
 * Contributing
